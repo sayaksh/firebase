@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851611299599",
+    "project_id": "kanglei-tourist-home",
+    "storage_bucket": "kanglei-tourist-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851611299599:android:b88b6ba4e3ac9360ee187a",
+        "android_client_info": {
+          "package_name": "com.example.kanglei_tourist_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851611299599-50o9fu8442puvc8v8o95hcibs56lf7hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2bS7fxzS2YHQLP0MCKywTA7zdVUmGmwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851611299599-50o9fu8442puvc8v8o95hcibs56lf7hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
